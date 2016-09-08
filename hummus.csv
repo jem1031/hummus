@@ -1,0 +1,23 @@
+least_favorite,favorite,hummus_experience_level,notes
+G,F,infrequent eater,"only tried E, F, G"
+G,C,regular eater,
+G,B,infrequent eater,
+E,B,infrequent eater,
+G,F,infrequent eater,
+F,A,regular eater,
+G,A,regular eater,
+E,C,infrequent eater,
+E,B,infrequent eater,
+B,G,regular eater,
+,G,tried before,least favorite: all the others
+D,A,infrequent eater,
+F,E,regular eater,
+G,A,infrequent eater,
+F,C,regular eater,
+G,E,infrequent eater,
+G,F,regular eater,
+B,F,regular eater,
+B,G,tried before,
+D,G,regular eater,
+B,F,regular eater,
+B,E,infrequent eater,
